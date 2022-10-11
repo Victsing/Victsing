@@ -95,20 +95,4 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <img src="https://github-readme-stats.vercel.app/api?username=victsing&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
-
-
-
 </td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
